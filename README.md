@@ -53,7 +53,7 @@ Currently working as a Full-Stack developer
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg](https://firebasestorage.googleapis.com/v0/b/project-insight-fd427.appspot.com/o/Screen%20Shot%202024-06-13%20at%2012.50.00.png?alt=media&token=2d1dfd35-0218-4b80-a5ac-1b5959968538)" alt="unity" width="40" height="40"/>
   </a>
 </p>
 
