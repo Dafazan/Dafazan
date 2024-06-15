@@ -53,7 +53,7 @@ Currently working as a Full-Stack developer
     <img src="https://firebasestorage.googleapis.com/v0/b/project-insight-fd427.appspot.com/o/Screen%20Shot%202024-06-13%20at%2012.50.00.png?alt=media&token=2d1dfd35-0218-4b80-a5ac-1b5959968538" alt="unity" width="40" height="40"/>
   </a>
 </p>
-div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="20" alt="behance logo"  />
