@@ -73,9 +73,5 @@ Currently working as a Full-Stack developer
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/ToniGarniwan) 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dafazan/Dafazan/output/snake.svg" alt="Snake animation" />
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31brd6zrsv7y6725ysly2evd4h5a&unique={true|1|on|yes})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
