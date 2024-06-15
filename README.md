@@ -69,9 +69,9 @@ Currently working as a Full-Stack developer
 ---
 [![](https://visitcount.itsvg.in/api?id=Dafazan&icon=5&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/ToniGarniwan) 
 
-
+## You know it is nice listening to music while working right?
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31brd6zrsv7y6725ysly2evd4h5a&unique={true|1|on|yes})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
