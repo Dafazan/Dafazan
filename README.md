@@ -59,6 +59,7 @@ Currently working as a Full-Stack developer
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dafazan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dafazan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/Dafazan/Dafazan/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dafazan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
