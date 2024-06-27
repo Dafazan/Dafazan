@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a Full-Stack developer
+Currently working as a Full-Stack developer with SQL Exception, Mostly using Firebase for the backend.
 
 
 ## 🌐 Socials:
